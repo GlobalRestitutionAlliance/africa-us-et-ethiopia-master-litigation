@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: ethiopian-restitution-roadmap-and-qsf-trust-execution
-  name: Ethiopian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/ethiopian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_et_001
+    name: Ethiopia Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_002
+    name: Ethiopia Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_003
+    name: Ethiopia Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_004
+    name: Ethiopia Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_005
+    name: Ethiopia Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_006
+    name: Ethiopia Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_007
+    name: Ethiopia Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_008
+    name: Ethiopia Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_009
+    name: Ethiopia Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_010
+    name: Ethiopia Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_011
+    name: Ethiopia Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_012
+    name: Ethiopia Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_013
+    name: Ethiopia Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_014
+    name: Ethiopia Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_015
+    name: Ethiopia Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_016
+    name: Ethiopia Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_017
+    name: Ethiopia Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_018
+    name: Ethiopia Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_019
+    name: Ethiopia Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_020
+    name: Ethiopia Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_021
+    name: Ethiopia Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_022
+    name: Ethiopia Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_023
+    name: Ethiopia Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_024
+    name: Ethiopia Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_025
+    name: Ethiopia Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_026
+    name: Ethiopia Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_027
+    name: Ethiopia Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_028
+    name: Ethiopia Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_029
+    name: Ethiopia Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_030
+    name: Ethiopia Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_031
+    name: Ethiopia Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_032
+    name: Ethiopia Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_033
+    name: Ethiopia Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_034
+    name: Ethiopia Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_035
+    name: Ethiopia Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_036
+    name: Ethiopia Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_037
+    name: Ethiopia Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_038
+    name: Ethiopia Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_039
+    name: Ethiopia Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_040
+    name: Ethiopia Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_041
+    name: Ethiopia Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_042
+    name: Ethiopia Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_043
+    name: Ethiopia Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_044
+    name: Ethiopia Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_045
+    name: Ethiopia Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_046
+    name: Ethiopia Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_047
+    name: Ethiopia Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_048
+    name: Ethiopia Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_049
+    name: Ethiopia Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_050
+    name: Ethiopia Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_051
+    name: Ethiopia Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_052
+    name: Ethiopia Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_053
+    name: Ethiopia Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_054
+    name: Ethiopia Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_055
+    name: Ethiopia Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_056
+    name: Ethiopia Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_057
+    name: Ethiopia Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_058
+    name: Ethiopia Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_059
+    name: Ethiopia Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_060
+    name: Ethiopia Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_061
+    name: Ethiopia Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_062
+    name: Ethiopia Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_063
+    name: Ethiopia Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_064
+    name: Ethiopia Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_065
+    name: Ethiopia Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_066
+    name: Ethiopia Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_067
+    name: Ethiopia Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_068
+    name: Ethiopia Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_069
+    name: Ethiopia Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_070
+    name: Ethiopia Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_071
+    name: Ethiopia Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_072
+    name: Ethiopia Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_073
+    name: Ethiopia Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_074
+    name: Ethiopia Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_075
+    name: Ethiopia Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_076
+    name: Ethiopia Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_077
+    name: Ethiopia Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_078
+    name: Ethiopia Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_079
+    name: Ethiopia Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_080
+    name: Ethiopia Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_081
+    name: Ethiopia Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_082
+    name: Ethiopia Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_083
+    name: Ethiopia Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_084
+    name: Ethiopia Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_085
+    name: Ethiopia Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_086
+    name: Ethiopia Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_087
+    name: Ethiopia Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_088
+    name: Ethiopia Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_089
+    name: Ethiopia Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_090
+    name: Ethiopia Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_091
+    name: Ethiopia Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_092
+    name: Ethiopia Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_093
+    name: Ethiopia Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_094
+    name: Ethiopia Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_095
+    name: Ethiopia Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_096
+    name: Ethiopia Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_097
+    name: Ethiopia Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_098
+    name: Ethiopia Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_099
+    name: Ethiopia Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_100
+    name: Ethiopia Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_101
+    name: Ethiopia Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_102
+    name: Ethiopia Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_103
+    name: Ethiopia Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_104
+    name: Ethiopia Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_105
+    name: Ethiopia Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_106
+    name: Ethiopia Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_107
+    name: Ethiopia Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_108
+    name: Ethiopia Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_109
+    name: Ethiopia Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_110
+    name: Ethiopia Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_111
+    name: Ethiopia Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_112
+    name: Ethiopia Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_113
+    name: Ethiopia Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_114
+    name: Ethiopia Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_115
+    name: Ethiopia Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_116
+    name: Ethiopia Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_117
+    name: Ethiopia Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_118
+    name: Ethiopia Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_119
+    name: Ethiopia Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_120
+    name: Ethiopia Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_121
+    name: Ethiopia Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_122
+    name: Ethiopia Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_123
+    name: Ethiopia Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_124
+    name: Ethiopia Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_125
+    name: Ethiopia Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_126
+    name: Ethiopia Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_127
+    name: Ethiopia Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_128
+    name: Ethiopia Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_129
+    name: Ethiopia Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_130
+    name: Ethiopia Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_131
+    name: Ethiopia Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_132
+    name: Ethiopia Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_133
+    name: Ethiopia Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_134
+    name: Ethiopia Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_135
+    name: Ethiopia Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_136
+    name: Ethiopia Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_137
+    name: Ethiopia Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_138
+    name: Ethiopia Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_139
+    name: Ethiopia Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_140
+    name: Ethiopia Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_141
+    name: Ethiopia Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_142
+    name: Ethiopia Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_143
+    name: Ethiopia Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_144
+    name: Ethiopia Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_145
+    name: Ethiopia Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_146
+    name: Ethiopia Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_147
+    name: Ethiopia Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_148
+    name: Ethiopia Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_149
+    name: Ethiopia Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_150
+    name: Ethiopia Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_151
+    name: Ethiopia Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_152
+    name: Ethiopia Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_153
+    name: Ethiopia Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_154
+    name: Ethiopia Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_155
+    name: Ethiopia Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_156
+    name: Ethiopia Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_157
+    name: Ethiopia Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_158
+    name: Ethiopia Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_159
+    name: Ethiopia Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_160
+    name: Ethiopia Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_161
+    name: Ethiopia Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_162
+    name: Ethiopia Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_163
+    name: Ethiopia Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_164
+    name: Ethiopia Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_165
+    name: Ethiopia Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_166
+    name: Ethiopia Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_167
+    name: Ethiopia Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_168
+    name: Ethiopia Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_169
+    name: Ethiopia Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_170
+    name: Ethiopia Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_171
+    name: Ethiopia Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_172
+    name: Ethiopia Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_173
+    name: Ethiopia Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_174
+    name: Ethiopia Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_175
+    name: Ethiopia Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_176
+    name: Ethiopia Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_177
+    name: Ethiopia Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_178
+    name: Ethiopia Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_179
+    name: Ethiopia Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_180
+    name: Ethiopia Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_181
+    name: Ethiopia Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_182
+    name: Ethiopia Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_183
+    name: Ethiopia Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_184
+    name: Ethiopia Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_185
+    name: Ethiopia Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_186
+    name: Ethiopia Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_187
+    name: Ethiopia Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_188
+    name: Ethiopia Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_189
+    name: Ethiopia Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_190
+    name: Ethiopia Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_191
+    name: Ethiopia Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_192
+    name: Ethiopia Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_193
+    name: Ethiopia Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_194
+    name: Ethiopia Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_195
+    name: Ethiopia Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_196
+    name: Ethiopia Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_197
+    name: Ethiopia Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_198
+    name: Ethiopia Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_199
+    name: Ethiopia Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_200
+    name: Ethiopia Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_201
+    name: Ethiopia Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_202
+    name: Ethiopia Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_203
+    name: Ethiopia Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_204
+    name: Ethiopia Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_205
+    name: Ethiopia Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_206
+    name: Ethiopia Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_207
+    name: Ethiopia Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_208
+    name: Ethiopia Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_209
+    name: Ethiopia Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_210
+    name: Ethiopia Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_211
+    name: Ethiopia Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_212
+    name: Ethiopia Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_213
+    name: Ethiopia Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_214
+    name: Ethiopia Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_215
+    name: Ethiopia Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_216
+    name: Ethiopia Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_217
+    name: Ethiopia Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_218
+    name: Ethiopia Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_219
+    name: Ethiopia Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_220
+    name: Ethiopia Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_221
+    name: Ethiopia Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_222
+    name: Ethiopia Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_223
+    name: Ethiopia Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_224
+    name: Ethiopia Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_225
+    name: Ethiopia Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_226
+    name: Ethiopia Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_227
+    name: Ethiopia Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_228
+    name: Ethiopia Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_229
+    name: Ethiopia Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_230
+    name: Ethiopia Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_231
+    name: Ethiopia Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_232
+    name: Ethiopia Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_233
+    name: Ethiopia Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_234
+    name: Ethiopia Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_235
+    name: Ethiopia Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_236
+    name: Ethiopia Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_237
+    name: Ethiopia Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_238
+    name: Ethiopia Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_239
+    name: Ethiopia Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_240
+    name: Ethiopia Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_241
+    name: Ethiopia Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_242
+    name: Ethiopia Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_243
+    name: Ethiopia Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_244
+    name: Ethiopia Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_245
+    name: Ethiopia Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_246
+    name: Ethiopia Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_247
+    name: Ethiopia Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_248
+    name: Ethiopia Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_249
+    name: Ethiopia Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_250
+    name: Ethiopia Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_251
+    name: Ethiopia Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_et_252
+    name: Ethiopia Skill 252
+    status: ACTIVE_SCAFFOLD

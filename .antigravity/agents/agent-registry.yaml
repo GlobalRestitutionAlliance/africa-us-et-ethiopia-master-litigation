@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-ethiopia-canal-and-intervention-historian
-  name: Ethiopia Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-ethiopia-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_et_001
+    name: Ethiopia Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_002
+    name: Ethiopia Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_003
+    name: Ethiopia Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_004
+    name: Ethiopia Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_005
+    name: Ethiopia Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_006
+    name: Ethiopia Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_007
+    name: Ethiopia Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_008
+    name: Ethiopia Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_009
+    name: Ethiopia Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_010
+    name: Ethiopia Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_011
+    name: Ethiopia Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_012
+    name: Ethiopia Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_013
+    name: Ethiopia Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_014
+    name: Ethiopia Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_015
+    name: Ethiopia Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_016
+    name: Ethiopia Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_017
+    name: Ethiopia Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_018
+    name: Ethiopia Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_019
+    name: Ethiopia Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_020
+    name: Ethiopia Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_021
+    name: Ethiopia Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_022
+    name: Ethiopia Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_023
+    name: Ethiopia Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_024
+    name: Ethiopia Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_025
+    name: Ethiopia Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_026
+    name: Ethiopia Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_027
+    name: Ethiopia Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_028
+    name: Ethiopia Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_029
+    name: Ethiopia Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_030
+    name: Ethiopia Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_031
+    name: Ethiopia Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_032
+    name: Ethiopia Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_033
+    name: Ethiopia Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_034
+    name: Ethiopia Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_035
+    name: Ethiopia Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_036
+    name: Ethiopia Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_037
+    name: Ethiopia Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_038
+    name: Ethiopia Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_039
+    name: Ethiopia Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_040
+    name: Ethiopia Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_041
+    name: Ethiopia Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_042
+    name: Ethiopia Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_043
+    name: Ethiopia Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_044
+    name: Ethiopia Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_045
+    name: Ethiopia Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_046
+    name: Ethiopia Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_047
+    name: Ethiopia Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_048
+    name: Ethiopia Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_049
+    name: Ethiopia Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_050
+    name: Ethiopia Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_051
+    name: Ethiopia Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_052
+    name: Ethiopia Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_053
+    name: Ethiopia Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_054
+    name: Ethiopia Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_055
+    name: Ethiopia Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_056
+    name: Ethiopia Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_057
+    name: Ethiopia Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_058
+    name: Ethiopia Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_059
+    name: Ethiopia Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_060
+    name: Ethiopia Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_061
+    name: Ethiopia Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_062
+    name: Ethiopia Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_063
+    name: Ethiopia Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_064
+    name: Ethiopia Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_065
+    name: Ethiopia Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_066
+    name: Ethiopia Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_067
+    name: Ethiopia Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_068
+    name: Ethiopia Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_069
+    name: Ethiopia Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_070
+    name: Ethiopia Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_071
+    name: Ethiopia Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_072
+    name: Ethiopia Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_073
+    name: Ethiopia Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_074
+    name: Ethiopia Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_075
+    name: Ethiopia Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_076
+    name: Ethiopia Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_077
+    name: Ethiopia Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_078
+    name: Ethiopia Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_079
+    name: Ethiopia Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_080
+    name: Ethiopia Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_081
+    name: Ethiopia Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_082
+    name: Ethiopia Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_083
+    name: Ethiopia Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_084
+    name: Ethiopia Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_085
+    name: Ethiopia Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_086
+    name: Ethiopia Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_087
+    name: Ethiopia Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_088
+    name: Ethiopia Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_089
+    name: Ethiopia Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_090
+    name: Ethiopia Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_091
+    name: Ethiopia Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_092
+    name: Ethiopia Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_093
+    name: Ethiopia Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_094
+    name: Ethiopia Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_095
+    name: Ethiopia Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_096
+    name: Ethiopia Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_097
+    name: Ethiopia Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_098
+    name: Ethiopia Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_099
+    name: Ethiopia Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_100
+    name: Ethiopia Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_101
+    name: Ethiopia Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_102
+    name: Ethiopia Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_103
+    name: Ethiopia Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_104
+    name: Ethiopia Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_105
+    name: Ethiopia Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_106
+    name: Ethiopia Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_107
+    name: Ethiopia Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_108
+    name: Ethiopia Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_109
+    name: Ethiopia Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_110
+    name: Ethiopia Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_111
+    name: Ethiopia Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_112
+    name: Ethiopia Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_113
+    name: Ethiopia Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_114
+    name: Ethiopia Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_115
+    name: Ethiopia Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_116
+    name: Ethiopia Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_117
+    name: Ethiopia Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_118
+    name: Ethiopia Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_119
+    name: Ethiopia Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_120
+    name: Ethiopia Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_121
+    name: Ethiopia Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_122
+    name: Ethiopia Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_123
+    name: Ethiopia Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_124
+    name: Ethiopia Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_125
+    name: Ethiopia Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_126
+    name: Ethiopia Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_127
+    name: Ethiopia Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_128
+    name: Ethiopia Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_129
+    name: Ethiopia Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_130
+    name: Ethiopia Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_131
+    name: Ethiopia Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_132
+    name: Ethiopia Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_133
+    name: Ethiopia Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_134
+    name: Ethiopia Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_135
+    name: Ethiopia Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_136
+    name: Ethiopia Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_137
+    name: Ethiopia Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_138
+    name: Ethiopia Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_139
+    name: Ethiopia Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_140
+    name: Ethiopia Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_141
+    name: Ethiopia Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_142
+    name: Ethiopia Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_143
+    name: Ethiopia Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_144
+    name: Ethiopia Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_145
+    name: Ethiopia Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_146
+    name: Ethiopia Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_147
+    name: Ethiopia Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_148
+    name: Ethiopia Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_149
+    name: Ethiopia Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_150
+    name: Ethiopia Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_151
+    name: Ethiopia Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_152
+    name: Ethiopia Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_153
+    name: Ethiopia Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_154
+    name: Ethiopia Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_155
+    name: Ethiopia Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_156
+    name: Ethiopia Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_157
+    name: Ethiopia Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_158
+    name: Ethiopia Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_159
+    name: Ethiopia Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_160
+    name: Ethiopia Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_161
+    name: Ethiopia Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_162
+    name: Ethiopia Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_163
+    name: Ethiopia Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_164
+    name: Ethiopia Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_165
+    name: Ethiopia Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_166
+    name: Ethiopia Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_167
+    name: Ethiopia Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_168
+    name: Ethiopia Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_169
+    name: Ethiopia Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_et_170
+    name: Ethiopia Agent 170
+    status: ACTIVE_SCAFFOLD
