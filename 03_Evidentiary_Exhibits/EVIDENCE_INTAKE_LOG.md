@@ -35,6 +35,24 @@
 | 2026-11-22 | Wikisource.html | https://en.wikisource.org/ | OpenCode/harvest | f1f02568e88c7f7327e2592f2cd8064cc67353af713a715cbfe36eaa2f0fe50a | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=131944 |
 | 2026-11-22 | US_Govt_Publishing_Office.html | https://www.govinfo.gov/ | OpenCode/harvest | 2afbc7eda2fb8bd786e4fa221fcfb9740604902b8a053e61d9d36a20f20993b7 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=65676 |
 
+| 2026-11-22 | UN_Digital_Library_browser.html | https://digitallibrary.un.org/ | OpenCode/browser-fallback | 75f1156e852f6beef9cbcc4815c00beb1a3c763b682a264352ca9d796f368ec7 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=4439 final_url=https://digitallibrary.un.org/ |
+
+| 2026-11-22 | HathiTrust_Digital_Library_browser.html | https://babel.hathitrust.org/ | OpenCode/browser-fallback | 8efd96559c40cb3b468d3bc7134aea59da5a18fcfda131bfb18064e0abb4e5ac | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60066 final_url=https://babel.hathitrust.org/cgi/mb |
+
+| 2026-11-22 | Chronicling_America_LOC_browser.html | https://chroniclingamerica.loc.gov/ | OpenCode/browser-fallback | 278136037714ce8fdd265e34218ee915842e5e47a44dd74f1aabf198ff14d2bd | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60000 final_url=https://www.loc.gov/collections/chronicling-america/ |
+
+| 2026-11-22 | Justia_browser.html | https://www.justia.com/ | OpenCode/browser-fallback | 09c0c23cf3140d953d5fa96ce934c674f00655e42f09ed2a6601b6620789df0f | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60045 final_url=https://www.justia.com/ |
+
+| 2026-11-22 | CourtListener_browser.html | https://www.courtlistener.com/ | OpenCode/browser-fallback | 517642d53d8c59668b9da5f6c7c74297d58f0df755392468f3f6434eb6a4af6d | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=51996 final_url=https://www.courtlistener.com/ |
+
+| 2026-11-22 | National_Archives_UK_-_Africa_browser.html | https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/africa/ | OpenCode/browser-fallback | c3fd8c0133749fac761658631a16ba36e7b0328ed93f077de7a386a2de5cdbc4 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=38561 final_url=https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/africa/ |
+
+| 2026-11-22 | UN_OHCHR_Ethiopia_browser.html | https://www.ohchr.org/en/countries/ethiopia | OpenCode/browser-fallback | e70ba0b1b2a2a43ed68a3acda9d1cdd87782d5aded31bbdaa6124b87aa664819 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60020 final_url=https://www.ohchr.org/en/countries/ethiopia |
+
+| 2026-11-22 | Library_of_Congress_-_Ethiopia_Italian_occupation_browser.html | https://www.loc.gov/item/?q=ethiopia+italian+occupation | OpenCode/browser-fallback | ed833545bad812e816a396c03fa84b59531a0a0074b596a828895c7cfaa40d49 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60000 final_url=https://www.loc.gov/item/?q=ethiopia+italian+occupation |
+
+| 2026-11-22 | World_Bank_Ethiopia_browser.html | https://data.worldbank.org/country/ethiopia | OpenCode/browser-fallback | 99719a09fb191f0840c480a2c0b2301d65481c183d2f9046bc99360689ef7c1b | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60013 final_url=https://data.worldbank.org/country/ethiopia |
+
 ## Intake Rules
 - Record source URL, access date, downloader, file hash, and storage path.
 - No authenticated claim without custodian/legal review.
